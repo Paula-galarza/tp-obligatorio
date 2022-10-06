@@ -1,0 +1,10 @@
+.navbar-expand-lg{
+    background-color: rgb(134, 124, 124);
+}
+
+.feedback{
+    color: grey;
+}
+.form-check-label{
+    margin-bottom: 15px;
+}
